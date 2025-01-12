@@ -1,5 +1,8 @@
 # Resume
-Made a resume using LaTeX
+LaTeX template for my personal resume
 
+Based off of [sb2nov/resume](https://github.com/sb2nov/resume/)
 
-<h2/>Feel free to use the template<h2/>
+Use it on overleaf: [Torin's Resume](https://www.overleaf.com/read/gmgccghpyftp#32a100) (Not updated)
+
+![Resume Preview](resume.png)
