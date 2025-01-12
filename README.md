@@ -1,3 +1,5 @@
 # Resume
 Made a resume using LaTeX
-Feel free to use the template
+
+
+<h2/>Feel free to use the template<h2/>
